@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	position:absolute;
+}
+
+.Hermit{
+	left:241px;
+	top:372px;
+}
+.Sail-boat{
+	left:1483px;
+	top:483px;
+}
+.Palm-trees{
+	left:2531px;
+	top:299px;
+}
+.Turtle{
+	left:2643px;
+	top:969px;
+}
+.Octopus{
+	left:2307px;
+	top:1827px;
+}
+.Ship{
+	left:1363px;
+	top:2451px;
+}
+.Fish{
+	left:363px;
+	top:1123px;
+}
+.Jellyfish{
+	left:747px;
+	top:1907px;
+}
+.Diver{
+	left:1043px;
+	top:1451px;
+}
+.Shark{
+	left:1491px;
+	top:1259px;
+}
+
+audio{
+	left: 1650px;
+	position:absolute;
+	z-index:1000000000;
+}
+
+.rectangle1{
+	left: 392px;
+	top: 1302px;
+}
+.readme1{
+	left: 477px;
+	top: 1321px; 
+}
+
+.rectangle2{
+	left: 1228px;
+	top: 1302px; 
+}
+.readme2{
+	left: 1322px; 
+	top: 1320px; 
+}
+.rectangle3{
+	left: 2034px; 
+	top: 1302px; 
+}
+.readme3{
+	left: 2119px; 
+	top: 1321px; 
+}
+
+
+	
+	
